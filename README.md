@@ -1,6 +1,6 @@
 # 📊 Sales Dashboard | 2023
 
-An interactive Power BI dashboard designed to analyze sales, profit, and quantity performance across categories and time. This dashboard helps businesses track yearly performance trends, identify profitable product segments, and uncover insights to drive sales growth.
+An interactive Tableau dashboard designed to analyze sales, profit, and quantity performance across categories and time. This dashboard helps businesses track yearly performance trends, identify profitable product segments, and uncover insights to drive sales growth.
 
 # 📌 Short Description / Purpose
 
@@ -9,11 +9,11 @@ The Sales Dashboard 2023 provides a visual overview of sales and profit metrics 
 # 🛠 Tech Stack
 
 The dashboard was built using the following tools and technologies:
-📊 Power BI Desktop – Main platform for report development and visualization.
-📂 Power Query – Used for data transformation and cleaning.
-🧠 DAX (Data Analysis Expressions) – Measures and KPIs for year-over-year comparison, profit/loss logic, and trend analysis.
-📝 Data Modeling – Relationships defined between sales, subcategory, and time-based data.
-📁 File Formats – .pbix for development and .png for dashboard previews.
+📊 Tableau Desktop – Main platform for dashboard design and interactivity.
+📂 Data Prep / Joins – For cleaning and shaping the dataset.
+📈 Calculated Fields – To create KPIs, year-over-year comparisons, and profit/loss logic.
+📝 Data Modeling – Relationships between sales, categories, and time series established in Tableau.
+📁 File Formats – .twbx (Tableau packaged workbook) for sharing and .png for previews.
 
 
 
