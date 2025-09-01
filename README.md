@@ -59,8 +59,3 @@ Highlights periods where sales/profit were above or below average
 <img width="1234" height="830" alt="image" src="https://github.com/user-attachments/assets/ebc59614-ce76-48fb-8588-554429c881c9" />
 
 
-
-
-📷 Screenshots / Demos
-
-Here’s a preview of the dashboard:
